@@ -68,27 +68,27 @@ Each student record includes:
 
 ### Add Student
 
-![Add Student](Screenshots/Add student.png)
+![Add student](Screenshots/Add student.png)
 
 ### View Student
 
-![View Student](screenshots/view-student.png)
+![View students](Screenshots/View students.png)
 
 ### Update Student
 
-![Update Student](Screenshots/Update students.png)
+![Update students](Screenshots/Update students.png)
 
 ### Delete Student
 
-![Delete Student](Screenshots/Delete students.png)
+![Delete students](Screenshots/Delete students.png)
 
 ### List All Students
 
-![List All Students](Screenshots/List all students.png)
+![List all students](Screenshots/List all students.png)
 
 ### Input Validation
 
-![Input Validation](Screenshots/Invaild choice.png)
+![Invaild choice](Screenshots/Invaild choice.png)
 
 ### Exit
 
