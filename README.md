@@ -98,3 +98,10 @@ Each student record includes:
 - Add input validation (e.g., negative age, marks out of range)
 - Add search by name or department
 - Unit tests for `StudentService`
+
+## 🎥 Demo Video
+
+You can watch the project demo here:
+
+ 
+https://drive.google.com/file/d/18CtYkE4TQhMApNNK8tvNpw1zsTixjJdd/view?usp=sharing
